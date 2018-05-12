@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '1910'
     url: http://www.gutenberg.org/2009/agents/1910
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31786#Five-Little-Starrs-in-the-Canadian-Forest
 gutenberg_issued: '2010-03-26'
 gutenberg_type: Text
 identifiers:
