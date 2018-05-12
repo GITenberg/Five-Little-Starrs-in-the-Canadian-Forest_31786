@@ -1,0 +1,36 @@
+_repo: Five-Little-Starrs-in-the-Canadian-Forest_31786
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Colborne, Elizabeth
+    birthdate: 1885
+    deathdate: 1948
+    gutenberg_agent_id: '35465'
+    url: http://www.gutenberg.org/2009/agents/35465
+covers:
+- cover_type: archival
+  image_path: 31786-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roy, Lillian Elizabeth
+    alias: Roy, Lillian Elizabeth Becker
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '1910'
+    url: http://www.gutenberg.org/2009/agents/1910
+description: ''
+gutenberg_issued: '2010-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31786'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Indians of North America -- Canada -- Juvenile fiction'
+- !lcsh 'Canada -- Juvenile fiction'
+- !lcsh 'Lumber camps -- Juvenile fiction'
+title: Five Little Starrs in the Canadian Forest
+url: http://www.gutenberg.org/ebooks/31786
